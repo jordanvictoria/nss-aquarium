@@ -1,0 +1,80 @@
+.wrapper {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.left {
+    width: 50%;
+}
+
+.right {
+    width: 30%;
+}
+
+
+
+
+.title {
+    border: 1px solid blue;
+    text-align: center;
+    padding: 1em;
+    margin: 0.5em;
+}
+
+
+
+
+.body {
+    border: 1px solid blue;
+    text-align: center;
+    padding: 1em;
+    margin: 0.5em;
+    justify-content: center;
+}
+
+
+
+
+
+
+.row-one {
+    display: flex;
+    width: 50%;
+    margin: 5px, 5px, 5px, 5px;
+}
+
+.row-two {
+    display: flex;
+    width: 50%;
+    margin: 5px, 5px, 5px, 5px;
+}
+
+
+
+
+
+
+
+
+
+.clean {
+    border: 1px solid green;
+    text-align: center;
+}
+
+
+
+.list {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    display: inline-block; 
+	text-align: left; 
+}
+
+ol {
+    display: inline-block; 
+	text-align: left; 
+}
